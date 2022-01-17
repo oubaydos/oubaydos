@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oubaydos (obaydah bouifadene)
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning some DevOps ideas and technologies.
 - 💞️ I’m looking to collaborate on any project i could get experience from
 - 📫 How to reach me : +212664166916, or  [linkedIn](linkedin.com/in/oubaydos)
 <!---
