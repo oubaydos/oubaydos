@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
   <a href="https://maven.apache.org/">
-<img alt="maven" src="https://contrastsecurity.dev/img/maven.png" width="70">
+<img alt="maven" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d00048205a466c174da3c77093a1336/apache-maven.png" width="70">
   </a>
   <a href="https://aws.amazon.com/">
 <img alt="aws" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="50" style="margin-left:-10px;">
