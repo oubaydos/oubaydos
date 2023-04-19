@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @oubaydos (obaydah bouifadene)
-- 🌱 I’m currently learning some DevOps ideas and technologies.
-- 💞️ I’m looking to collaborate on any project i could get experience from
+- 👋 Hi, I’m @oubaydos (obaydah bouifadene) a software Engineer
+- 🌱 I’m currently learning some DevOps & Cloud ideas and technologies.
+- 💞️ looking to collaborate with you
 - 📫 How to reach me : +33765550347, or  [linkedIn](https://www.linkedin.com/in/oubaydos)
+- 📍 Grenoble, France
 <!---
 oubaydos/oubaydos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
