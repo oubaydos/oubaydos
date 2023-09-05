@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oubaydos (obaydah bouifadene) a software Engineer
-- 🌱 I’m currently learning some DevOps & Cloud ideas and technologies.
+- 👋 Hi, I’m @oubaydos (obaydah bouifadene) a software engineer graduated from ENSIMAG and ENSIAS
+- 🌱 I’m interested in Java Software Engineering | DevOps | Cloud
 - 💞️ looking to collaborate with you
 - 📫 How to reach me : +33765550347, or  [linkedIn](https://www.linkedin.com/in/oubaydos)
 - 📍 Grenoble, France
