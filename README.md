@@ -121,6 +121,8 @@ You can click the Preview link to take a look at your changes.
 [![Oubaydoss GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oubaydos)](https://github.com/oubaydos)
 
 ![](https://github.com/oubaydos/README/blob/master/generated/overview.svg)
-![](https://github.com/oubaydos/README/blob/master/generated/languages.svg)
+<!---
+![](https://github.com/oubaydos/README/blob/master/generated/languages.svg) -->
+
 
 </a>
