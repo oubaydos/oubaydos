@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @oubaydos (obaydah bouifadene) a software engineer graduated from ENSIMAG and ENSIAS
-- 🌱 I’m interested in Java Software Engineering | DevOps | Cloud
+- 🎉 AWS certified DevOps - Professional & AWS certified Developer - Associate
+- 🌱 Interested in Java Software Engineering | DevOps | Cloud
 - 💞️ looking to collaborate with you
 - 📫 How to reach me : +33765550347, or  [linkedIn](https://www.linkedin.com/in/oubaydos)
 - 📍 Grenoble, France
