@@ -7,7 +7,7 @@
 <!---
 oubaydos/oubaydos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.cplusplus.com/">
@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" style="margin-left:10px;">
   </a>
 </p>
-
+--->
 
 - 📈 check out my github stats 
  <a href="https://github.com/oubaydos">
