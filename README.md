@@ -117,8 +117,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - check out my github stats 
- <a href="https://github.com/oubaydos">
-
 [![Oubaydoss GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oubaydos)](https://github.com/oubaydos)
 
 ![](https://github.com/oubaydos/README/blob/master/generated/overview.svg)
