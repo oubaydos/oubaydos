@@ -2,7 +2,7 @@
 - 🎉 AWS certified DevOps - Professional & AWS certified Developer - Associate
 - 🌱 Interested in Java Software Engineering | DevOps | Cloud
 - 💞️ looking to collaborate with you
-- 📫 How to reach me : +33765550347, or  [linkedIn](https://www.linkedin.com/in/oubaydos)
+- 📫 How to reach me : [linkedIn](https://www.linkedin.com/in/oubaydos)
 - 📍 Grenoble, France
 <!---
 oubaydos/oubaydos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
